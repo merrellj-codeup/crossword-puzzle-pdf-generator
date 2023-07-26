@@ -1,5 +1,7 @@
 # Crossword Puzzle Generator
 
+![Crossword Puzzle Generator](screenshot.png)
+
 Crossword Puzzle Generator is a Node.js application that generates a printable crossword puzzle in PDF format, along with clues and answers, from a simple JSON input.
 
 The application leverages the 'crossword-layout-generator' and 'pdfkit' libraries to create crossword layouts and PDF documents, respectively.
