@@ -26,10 +26,10 @@ npm --version
 
 ### Installing
 
-To install the application, clone the repository:
+To install the application, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/<your_username>/crossword-puzzle-generator.git
+git clone git@github.com:merrellj-codeup/crossword-puzzle-pdf-generator.git
 ```
 
 Open a terminal in the project directory and run:
