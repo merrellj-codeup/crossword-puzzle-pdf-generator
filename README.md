@@ -65,8 +65,8 @@ This will install 'crossword-layout-generator' and 'pdfkit' libraries, which are
         }
     ]
     ```
-> [!Warning]\
-> Remember it's a JSON file, so make sure you don't have trailing commas and your property names are enclosed in double quotes.
+    > [!Warning]\
+    > Remember it's a JSON file, so make sure you don't have trailing commas and your property names are enclosed in double quotes.
 2. Run the application by executing the following command in the project directory:
     ```bash
     node index.js
