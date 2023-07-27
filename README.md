@@ -47,23 +47,23 @@ This will install 'crossword-layout-generator' and 'pdfkit' libraries, which are
     [
         {
             "clue": "The simplest, fundamental data types in JavaScript",
-            "answer": "primitive",
+            "answer": "primitive"
         },
         {
             "clue": "Represents logical entities and can be either true or false",
-            "answer": "boolean",
+            "answer": "boolean"
         },
         {
             "clue": "Represents sequence of characters",
-            "answer": "string",
+            "answer": "string"
         },
         {
             "clue": "Represents a variable that has not been assigned a value",
-            "answer": "undefined",
+            "answer": "undefined"
         },
         {
             "clue": "Represents the intentional absence of any object value",
-            "answer": "null",
+            "answer": "null"
         }
     ]
     ```
